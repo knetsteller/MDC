@@ -1,2 +1,2 @@
 # MDC
-https://travis-ci.org/knetsteller/MDC.svg?branch=master
+[<img src="https://travis-ci.org/knetsteller/MDC.svg?branch=master">]
